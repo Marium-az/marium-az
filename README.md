@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Marium!
-🚀 I'm learning js and react from scrimba currently<br>📚 Love to work on and explore new tools<br>✨ current learnt languages: html, css, js<br>🎉 My goal is to use my knowledge to make things easier for other people<br>🔭 My artistic hobbies include drawing, painting, writing, reading etc.
+🚀 I'm an undergraduate Computer Science student<br>📚 Love to work on and explore new things<br>✨ current learnt languages: html, css, js, python<br>🎉 My goal is to use my knowledge to make things easier and creative for other people<br>🔭 My artistic hobbies include drawing, painting, writing, reading etc.
 
 
 # 💻 Tech Stack:
